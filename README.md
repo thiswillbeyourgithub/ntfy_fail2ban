@@ -54,7 +54,3 @@ The script provides a detailed report including:
 - UFW-blocked IP addresses
 
 The report is sent as a notification to your configured ntfy.sh topic.
-
-## License
-
-MIT License
